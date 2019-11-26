@@ -4,7 +4,7 @@ SELECT
 PunoIme = Ime + ' ' + Prezime, Adresa = a.Broj + ' ' + a.Ulica,
 
  
-NazivFakulteta = f.NazivFakulteta
+NazivFakulteta = f.Naziv
 
 
 FROM Omega.Student s
